@@ -1,0 +1,100 @@
+der Mann|mann|noun|man|German
+das ôl|ol|noun|oil|German
+die Frau|frau|noun|woman|German
+das FrÑulein|fraulein|noun|Miss|German
+das MÑdchen|madchen|noun|girl|German
+das Kind|kind|noun|child|German
+das Haus|haus|noun|house|German
+die Schule|schule|noun|school|German
+die TÅr|tur|noun|door|German
+kommen|kommen|verb|to come|German
+gehen|gehen|verb|to go|German
+sehen|sehen|verb|to see|German
+wollen|wollen|verb|to want|German
+wissen|wissen|verb|to know|German
+kînnen|konnen|verb|to be able|German
+vor|vor|preposition|before|German
+nach|nach|preposition|after|German
+zu|zu|preposition|to|German
+bis|bis|preposition|until|German
+ohne|ohne|preposition|without|German
+eins|eins|cardinal number|one|German
+zwei|zwei|cardinal number|two|German
+drei|drei|cardinal number|three|German
+hoch|hoch|adverb|high|German
+gut|gut|adjective/adverb|good|German
+le mot|mot|noun|word|French
+le garáon|garcon|noun|boy|French
+jeune|jeune|adjective|young|French
+le boulanger|boulanger|noun|baker|French
+la fille|fille|noun|girl|French
+franáais|francais|adjective|French|French
+le livre|livre|noun|book|French
+l'Çcole|ecole|noun|school|French
+la maison|maison|noun|house|French
+àtre|etre|verb|to be|French
+apräs|apres|preposition|after|French
+voir|voir|verb|to see|French
+dire|dire|verb|to say|French
+aller|aller|verb|to go|French
+bon|bon|adjective|good|French
+le mardi|mardi|noun|Tuesday|French
+la salle|salle|noun|room|French
+elle|elle|pronoun|she|French
+le jour|jour|noun|day|French
+aujourd'hui|aujourd'hui|adverb|today|French
+la pluie|pluie|noun|rain|French
+le cheval|cheval|noun|horse|French
+le moulin|moulin|noun|mill|French
+rouge|rouge|adjective|red|French
+la neige|neige|noun|snow|French
+puer|puer|noun (m)|boy|Latin
+pistor|pistor|noun (m)|baker|Latin
+puella|puella|noun (f)|girl|Latin
+bonus|bonus|adjective|good|Latin
+liber|liber|noun (m)|book|Latin
+schola|schola|noun (f)|school|Latin
+domus|domus|noun (f)|house|Latin
+esse|esse|verb|to be|Latin
+post|post|preposition|after|Latin
+illa|illa|pronoun|she|Latin
+conclave|conclave|noun (n)|room|Latin
+hodie|hodie|adverb|today|Latin
+pluvia|pluvia|noun (f)|rain|Latin
+equus|equus|noun (m)|horse|Latin
+mola|mola|noun (f)|mill|Latin
+ruber|ruber|adjective|red|Latin
+nix|nix|noun (f)|snow|Latin
+ire|ire|verb|to go|Latin
+oculus|oculus|noun (m)|eye|Latin
+intro|intro|adverb|within|Latin
+femina|femina|noun (f)|woman|Latin
+homunculus|homunculus|noun (m)|little man|Latin
+malum|malum|noun (n)|apple|Latin
+nam|nam|conjunction|for|Latin
+zelus|zelus|noun (m)|zeal|Latin
+rachok|rachok|adverb (m)|far|Hebrew
+panim|panim|noun (f)|face|Hebrew
+tapuach|tapuach|noun (m)|apple|Hebrew
+ma'afiah|ma'afiah|noun (f)|bakery|Hebrew
+ayin|ayin|noun (f)|eye|Hebrew
+adom|adom|adjective (m)|red|Hebrew
+sheleg|sheleg|noun (m)|snow|Hebrew
+ochel|ochel|noun (m)|food|Hebrew
+bari|bari|adjective (m)|healthy|Hebrew
+cham|cham|adjective (m)|hot|Hebrew
+yom shlishi|yom shlishi|noun (m)|Tuesday|Hebrew
+tov|tov|adjective (m)|good|Hebrew
+latet|latet|verb|to give|Hebrew
+kan|kan|adverb|here|Hebrew
+juke|juke|noun (m)|bug|Hebrew
+lemala|lemala|adverb|up|Hebrew
+mitah|mitah|noun (f)|bed|Hebrew
+kafa'fa|kafa'fa|noun (f)|glove|Hebrew
+katis ashrei|katis ashrei|noun (m)|credit card|Hebrew
+zol|zol|adjective (m)|inexpensive|Hebrew
+smartoot|smartoot|noun (m)|rain|Hebrew
+sus|sus|noun (m)|horse|Hebrew
+matai|matai|adverb|when|Hebrew
+chatza'it|chatza'it|noun (f)|skirt|Hebrew
+cheshbon|cheshbon|noun (m)|bill|Hebrew

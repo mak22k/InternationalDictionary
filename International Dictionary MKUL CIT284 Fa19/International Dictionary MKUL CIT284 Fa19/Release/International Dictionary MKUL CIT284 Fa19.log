@@ -1,0 +1,22 @@
+﻿  Dictionary MKUL CIT284 Fa19.cpp
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(358): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(359): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(360): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(361): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(362): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(363): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(364): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(365): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(499): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(500): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(501): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(502): warning C4309: 'static_cast': truncation of constant value
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(513): warning C4018: '>': signed/unsigned mismatch
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(532): warning C4018: '>': signed/unsigned mismatch
+c:\users\ct-d119\downloads\international dictionary mkul cit284 fa19\international dictionary mkul cit284 fa19\dictionary mkul cit284 fa19.cpp(561): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  2 of 262 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  International Dictionary MKUL CIT284 Fa19.vcxproj -> C:\Users\ct-d119\Downloads\International Dictionary MKUL CIT284 Fa19\Release\International Dictionary MKUL CIT284 Fa19.exe
